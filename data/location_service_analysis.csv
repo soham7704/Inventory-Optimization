@@ -1,0 +1,6 @@
+Location,total_skus,stockout_skus,avg_availability,location_stockout_rate
+Bangalore,18,14,56.22222222222222,0.7777777777777778
+Chennai,20,17,54.8,0.85
+Delhi,15,14,49.4,0.9333333333333333
+Kolkata,25,19,40.84,0.76
+Mumbai,22,17,44.09090909090909,0.7727272727272727
