@@ -120,6 +120,33 @@ inventory-optimization-project/
 │
 ├── README.md
 │
-├── requirements.txt
-│
-└── .gitignore
+└── requirements.txt
+```
+
+---
+
+## 🚀 How to Use This Repository
+
+This repository is structured to guide users through a complete analytics workflow, from business understanding to insight generation.
+
+To use this project effectively:
+
+1. Clone the repository to your local machine  
+2. Install all required dependencies listed in `requirements.txt`  
+3. Launch Jupyter Notebook or JupyterLab  
+4. Open `inventory_optimization.ipynb` from the `notebooks/` directory  
+5. Execute the notebook sequentially to follow the analytical narrative, KPI development, and insights  
+
+The notebook is intentionally designed to reflect a **real-world analytics engagement**, ensuring clarity, reproducibility, and business relevance.
+
+---
+
+## 🧠 Key Takeaways
+
+- Inventory optimization should be treated as a **business strategy problem**, not merely a technical or modeling exercise  
+- Well-defined KPIs enable organizations to translate raw data into **actionable operational decisions**  
+- Demand variability plays a critical role in inventory planning and must be explicitly measured and monitored  
+- Linking inventory metrics to revenue impact improves decision prioritization at leadership levels  
+- Demand-driven planning significantly reduces stockouts, excess inventory, and revenue leakage  
+
+These insights collectively demonstrate how structured analytics can directly support **efficient supply chain operations and financial performance**.
