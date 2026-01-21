@@ -1,0 +1,14 @@
+# Core numerical computing
+numpy>=1.23.0
+
+# Data manipulation and analysis
+pandas>=1.5.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Jupyter environment
+jupyter>=1.0.0
+notebook>=6.5.0
+ipykernel>=6.0.0
